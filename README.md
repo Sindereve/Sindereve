@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**Sindereve/Sindereve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year student at Orenburg State University, majoring in **Data Analysis and Machine Learning**. 📊🤖  
+Since November 2024, I have been actively participating in monthly competitions on [Kaggle](https://www.kaggle.com/sindik) 🚀, where I tackle data analysis challenges and develop machine learning models.
 
-Here are some ideas to get you started:
+## 🛠️ Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**:
+  - Python (NumPy, pandas, matplotlib, scikit-learn, etc.)
+  - C# (creating desktop applications with WPF)
+
+- **Tools and Technologies**:
+  - Data analysis and machine learning
+  - Data visualization
+  - Desktop application development
+
+- **Competitions**:
+  - Active participant in Kaggle Competitions since late 2024
+  - Previous experience in competitive programming on Codeforces
+
+## 📫 How to Reach Me
+- **Email**: [sindereve850live@gmail.com](mailto:sindereve850live@gmail.com)  
+- **Kaggle**: [https://www.kaggle.com/sindik](https://www.kaggle.com/sindik)
