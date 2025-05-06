@@ -19,5 +19,6 @@ Since November 2024, I have been actively participating in monthly competitions 
   - Previous experience in competitive programming on Codeforces
 
 ## 📫 How to Reach Me
-- **Email**: [sindereve850live@gmail.com](mailto:sindereve850live@gmail.com)  
-- **Kaggle**: [https://www.kaggle.com/sindik](https://www.kaggle.com/sindik)
+- [**Email**](mailto:sindereve850live@gmail.com)  
+- [**Kaggle**](https://www.kaggle.com/sindik)
+- [**Telegram**](https://t.me/andrySin)
