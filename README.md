@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I am a 3rd-year student at Orenburg State University, majoring in **Data Analysis and Machine Learning**. 📊🤖  
+I am a 4rd-year student at Orenburg State University, majoring in **Data Analysis and Machine Learning**. 📊🤖  
 Since November 2024, I have been actively participating in monthly competitions on [Kaggle](https://www.kaggle.com/sindik) 🚀, where I tackle data analysis challenges and develop machine learning models.
 
 ## 🛠️ Skills and Technologies
