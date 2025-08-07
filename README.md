@@ -6,7 +6,8 @@ Since November 2024, I have been actively participating in monthly competitions 
 ## 🛠️ Skills and Technologies
 
 - **Programming Languages**:
-  - Python (NumPy, pandas, matplotlib, scikit-learn, etc.)
+  - Python (NumPy, pandas, matplotlib, scikit-learn, pyTorch, langchain, etc.)
+  - PostrgreSQL, ClickHouse
   - C# (creating desktop applications with WPF)
 
 - **Tools and Technologies**:
@@ -22,3 +23,4 @@ Since November 2024, I have been actively participating in monthly competitions 
 - [**Email**](mailto:sindereve850live@gmail.com)  
 - [**Kaggle**](https://www.kaggle.com/sindik)
 - [**Telegram**](https://t.me/andrySin)
+- [**StackOverflow**](https://stackoverflow.com/users/31048735/sindik)
