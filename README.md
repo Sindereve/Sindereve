@@ -5,7 +5,7 @@ I am a 4rd-year student at Orenburg State University, majoring in **Data Analysi
 ## 🛠️ Skills and Technologies
 
 - **Programming Languages**:
-  - Python (NumPy, pandas, matplotlib, scikit-learn, pyTorch, TensorFlou, langchain, etc.)
+  - Python (NumPy, pandas, matplotlib, scikit-learn, pyTorch, TensorFlow, langchain, etc.)
   - C# (creating desktop applications with WPF)
 
 - **Data Base**
