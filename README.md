@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I am a 4rd-year student at Orenburg State University, majoring in **Data Analysis and Machine Learning**. 📊🤖  
+A data scientist waiting to be replaced by a neural network. 
 
 ## 🛠️ Skills and Technologies
 
